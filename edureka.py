@@ -1,0 +1,1 @@
+print("Happy Mahashivratri!!!!May lord bless everyone with lots of abundance and happiness")
